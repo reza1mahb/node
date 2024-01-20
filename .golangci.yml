@@ -1,5 +1,5 @@
 linters:
-  disable-all: true
+  disable-all: false
   enable:
     - errcheck
     - revive
